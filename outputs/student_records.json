@@ -1,0 +1,122 @@
+[
+  {
+    "student_id": "S001",
+    "name": "Amina Nakato",
+    "age": 19,
+    "marks": 78
+  },
+  {
+    "student_id": "S002",
+    "name": "Brian Okello",
+    "age": 20,
+    "marks": 64
+  },
+  {
+    "student_id": "S003",
+    "name": "Grace Namubiru",
+    "age": 19,
+    "marks": 91
+  },
+  {
+    "student_id": "S004",
+    "name": "David Ssemwogerere",
+    "age": 21,
+    "marks": 55
+  },
+  {
+    "student_id": "S005",
+    "name": "Esther Atim",
+    "age": 18,
+    "marks": 83
+  },
+  {
+    "student_id": "S006",
+    "name": "Moses Kato",
+    "age": 20,
+    "marks": 47
+  },
+  {
+    "student_id": "S007",
+    "name": "Faith Nabirye",
+    "age": 19,
+    "marks": 72
+  },
+  {
+    "student_id": "S008",
+    "name": "Joseph Opio",
+    "age": 22,
+    "marks": 68
+  },
+  {
+    "student_id": "S009",
+    "name": "Sarah Achieng",
+    "age": 20,
+    "marks": 89
+  },
+  {
+    "student_id": "S010",
+    "name": "Isaac Mugisha",
+    "age": 21,
+    "marks": 59
+  },
+  {
+    "student_id": "S011",
+    "name": "Ruth Nansubuga",
+    "age": 18,
+    "marks": 95
+  },
+  {
+    "student_id": "S012",
+    "name": "Peter Lubega",
+    "age": 20,
+    "marks": 41
+  },
+  {
+    "student_id": "S013",
+    "name": "Mercy Akello",
+    "age": 19,
+    "marks": 76
+  },
+  {
+    "student_id": "S014",
+    "name": "Daniel Kiggundu",
+    "age": 22,
+    "marks": 63
+  },
+  {
+    "student_id": "S015",
+    "name": "Joan Nalwoga",
+    "age": 19,
+    "marks": 87
+  },
+  {
+    "student_id": "S016",
+    "name": "Samuel Odong",
+    "age": 21,
+    "marks": 52
+  },
+  {
+    "student_id": "S017",
+    "name": "Patricia Nakirya",
+    "age": 20,
+    "marks": 70
+  },
+  {
+    "student_id": "S018",
+    "name": "Kevin Byaruhanga",
+    "age": 18,
+    "marks": 58
+  },
+  {
+    "student_id": "S019",
+    "name": "Lydia Namuli",
+    "age": 21,
+    "marks": 80
+  },
+  {
+    "student_id": "S020",
+    "name": "Emmanuel Tumusiime",
+    "age": 20,
+    "marks": 66
+  }
+]

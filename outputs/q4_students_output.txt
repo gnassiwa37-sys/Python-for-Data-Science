@@ -1,0 +1,34 @@
+List of dictionaries sample: {'student_id': 'S001', 'name': 'Amina Nakato', 'age': 19, 'marks': 78}
+Dictionary of tuples sample: {'S001': ('Amina Nakato', 19, 78)}
+Saved 20 records to student_records.json
+Retrieved 20 records
+Round-trip equality: True
+S001 | Amina Nakato | Age 19 | Marks 78
+S002 | Brian Okello | Age 20 | Marks 64
+S003 | Grace Namubiru | Age 19 | Marks 91
+S004 | David Ssemwogerere | Age 21 | Marks 55
+S005 | Esther Atim | Age 18 | Marks 83
+S006 | Moses Kato | Age 20 | Marks 47
+S007 | Faith Nabirye | Age 19 | Marks 72
+S008 | Joseph Opio | Age 22 | Marks 68
+S009 | Sarah Achieng | Age 20 | Marks 89
+S010 | Isaac Mugisha | Age 21 | Marks 59
+S011 | Ruth Nansubuga | Age 18 | Marks 95
+S012 | Peter Lubega | Age 20 | Marks 41
+S013 | Mercy Akello | Age 19 | Marks 76
+S014 | Daniel Kiggundu | Age 22 | Marks 63
+S015 | Joan Nalwoga | Age 19 | Marks 87
+S016 | Samuel Odong | Age 21 | Marks 52
+S017 | Patricia Nakirya | Age 20 | Marks 70
+S018 | Kevin Byaruhanga | Age 18 | Marks 58
+S019 | Lydia Namuli | Age 21 | Marks 80
+S020 | Emmanuel Tumusiime | Age 20 | Marks 66
+
+ERROR TEST 1: missing file
+Handled FileNotFoundError: records file was not found.
+Continued after missing-file error.
+ERROR TEST 2: invalid numeric input 'seventy'
+Handled invalid marks: enter a whole number from 0 to 100.
+Continued after invalid-input error.
+Valid marks still accepted: 78
+Program finished normally.

@@ -1,0 +1,48 @@
+1(a) NUMPY
+Array: [ 8420 10150  6730  9280 11640 14200  4980  8910 10820  7350]
+Total: 92,480
+Mean: 9,248.00
+Minimum: 4,980
+Maximum: 14,200
+Population standard deviation: 2,499.76
+At least 10,000 steps: [10150 11640 14200 10820]
+
+1(b) PANDAS
+Missing values: 0
+Added goal column:
+      Date  Steps  Goal achieved
+2026-10-05   8420          False
+2026-10-06  10150           True
+2026-10-07   6730          False
+2026-10-08   9280          False
+2026-10-09  11640           True
+2026-10-10  14200           True
+2026-10-11   4980          False
+2026-10-12   8910          False
+2026-10-13  10820           True
+2026-10-14   7350          False
+Filtered goal days:
+      Date  Steps
+2026-10-06  10150
+2026-10-09  11640
+2026-10-10  14200
+2026-10-13  10820
+Sorted by steps descending:
+      Date  Steps
+2026-10-10  14200
+2026-10-09  11640
+2026-10-13  10820
+2026-10-06  10150
+2026-10-08   9280
+2026-10-12   8910
+2026-10-05   8420
+2026-10-14   7350
+2026-10-07   6730
+2026-10-11   4980
+Grouped by goal status:
+               count          mean
+Goal achieved                     
+False              6   7611.666667
+True               4  11702.500000
+
+Saved outputs/q1_daily_steps.png and q1_processed_steps.csv

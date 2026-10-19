@@ -1,0 +1,10 @@
+Training records: 12 Test records: 3
+Price = 30.763663 + 2.036189 * size
+ House  Size_m2  Actual_UGX_millions  Predicted_UGX_millions  Residual_actual_minus_predicted
+     1       50                  128                 132.573                           -4.573
+    10      140                  318                 315.830                            2.170
+    12      160                  362                 356.554                            5.446
+Test MAE: 4.063 UGX millions
+Test RMSE: 4.293 UGX millions
+Test R-squared: 0.998213
+Prediction for 130 m²: 295.468 UGX millions

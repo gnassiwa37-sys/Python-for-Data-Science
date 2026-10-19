@@ -1,0 +1,15 @@
+Imported module: animals.py
+Objects created: 20
+Adopted: 6
+Available: 14
+Buddy, age 3, Adopted
+Buddy says: Woof! Woof!
+Luna, age 2, Available
+Luna says: Meow!
+Dog breed: Labrador
+Cat colour: Grey
+Buddy is fetching the ball!
+Luna is purring.
+Buddy age before: 3
+Buddy age after: 4
+After adoption: Luna, age 2, Adopted
